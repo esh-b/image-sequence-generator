@@ -1,0 +1,10 @@
+{
+    "image": {
+        "transform": true
+    },
+    "spacing": {
+        "type": "fixed",
+        "subtype": "edge"
+    },
+	"output_format": "png"
+}

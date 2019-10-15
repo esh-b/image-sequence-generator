@@ -1,0 +1,4 @@
+
+include image_sequence/config.json
+global-exclude *.py[cod] *.png
+prune dataset/

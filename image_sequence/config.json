@@ -1,0 +1,10 @@
+{
+    "image": {
+        "transform": false
+    },
+    "spacing": {
+        "type": "variable",
+        "subtype": "between"
+    },
+    "output_format": "png"
+}
