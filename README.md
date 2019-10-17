@@ -18,7 +18,6 @@ The exact requirements are as follows:
 - The problem statement specifies to implement one type of spacing (**random sampling**) and to consider only the spaces **between** digits. I have additionally implemented other spacing types and considered even the edge spaces (before the first digit and after the last digit in the image sequence). The user can set the spacing options in the configuration file as required. The details of the available configurations are discussed below.
 - Also, I have added another option to transform the digit images (like blur) before creating the final image sequence. I believe these additional spacing and image transform options will help in generating diverse datasets.
 - The technical documentation regarding the implementation (algorithm and the module design) can be found in the [`DESIGN.md`](docs/DESIGN.md) in the `docs/` directory.
-- Other information like code assumptions, design decision (tradeoffs), performance and future work are discussed in the [`META.md`](docs/META.md) in the same directory.
 
 ### Usage
 The project can either be installed as a pip package (API) OR can be run directly using the client script (`client_script.py`) in the repository.
