@@ -5,7 +5,7 @@ imgaug==0.2.9
 kiwisolver==1.1.0
 matplotlib==3.0.3
 networkx==2.3
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 Pillow==8.1.1
 pyparsing==2.4.2
